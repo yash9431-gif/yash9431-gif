@@ -10,6 +10,7 @@
 - ⚡ Fun fact: Love to Travel.
 
 Skills:-
+---
 Javascript, HTML, CSS, Node, Express, React.
 ---
 You Can Reach Out-to-me:-
