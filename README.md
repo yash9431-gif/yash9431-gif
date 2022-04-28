@@ -7,5 +7,10 @@
 - 🤔 I’m looking for help with React .
 - 💬 Ask me about-Java-Script,React,HTML,CSS and Mongoose
 - 📫 How to reach me: yraj9248@gmail.com..
-- ⚡ Fun fact: Love to Travel
--->
+- ⚡ Fun fact: Love to Travel.
+
+hr
+Skills:-
+Javascript, HTML, CSS, Node, Express, React.
+hr
+
