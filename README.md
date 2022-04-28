@@ -11,7 +11,13 @@
 
 Skills:-
 ---
-Javascript, HTML, CSS, Node, Express, React.
+![](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-html-mobile-app-development-flaticons-lineal-color-flat-icons-4.png)
+![](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-css-computer-science-flaticons-lineal-color-flat-icons-2.png)
+![](https://img.icons8.com/color/2x/mongodb.png)
+![](https://img.icons8.com/fluency/2x/node-js.png)
+![](https://img.icons8.com/ios-glyphs/2x/react.png)
+![](https://img.icons8.com/windows/2x/nodejs.png)
+
 ---
 You Can Reach Out-to-me:-
 ---
