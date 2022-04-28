@@ -12,3 +12,5 @@
 ##Skills:-
 Javascript, HTML, CSS, Node, Express, React.
 
+[LINKEDIN](https://www.linkedin.com/in/yash-raj-926416174/)
+
