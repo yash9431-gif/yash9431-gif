@@ -9,8 +9,6 @@
 - 📫 How to reach me: yraj9248@gmail.com..
 - ⚡ Fun fact: Love to Travel.
 
-<hr>
-Skills:-
+##Skills:-
 Javascript, HTML, CSS, Node, Express, React.
-<hr>
 
